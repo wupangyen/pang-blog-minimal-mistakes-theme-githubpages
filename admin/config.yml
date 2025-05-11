@@ -2,6 +2,10 @@ backend:
   name: github
   repo: wupangyen/pang-blog-minimal-mistakes-theme-githubpages
   branch: main
+  base_url: https://pang-oauth-server.onrender.com
+  auth_endpoint: /auth
+  token_endpoint: /auth/token
+  app_id: Ov23liQqy3xfIgwcvHhQ
 
 media_folder: "images" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
