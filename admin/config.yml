@@ -2,7 +2,7 @@ backend:
   name: github
   repo: wupangyen/pang-blog-minimal-mistakes-theme-githubpages
   branch: main
-  base_url: https://pang-oauth-server.onrender.com
+  base_url: https://pang-blog-minimal-mistakes-theme.onrender.com
   auth_endpoint: /auth
   token_endpoint: /auth/token
   app_id: Ov23liQqy3xfIgwcvHhQ
